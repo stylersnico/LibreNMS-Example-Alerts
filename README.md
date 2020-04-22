@@ -1,6 +1,6 @@
 # LibreNMS Example Alerts
 
-Based on the work of zimmertr/LibreNMS-Example-Alerts
+Based on the work of [zimmertr/LibreNMS-Example-Alerts](https://github.com/zimmertr/LibreNMS-Example-Alerts)
 
 
 ## Included alerts 
